@@ -1,0 +1,8 @@
+D:\dev\C#\Csharp\Lessons\Lessons\obj\Debug\Lessons.csproj.AssemblyReference.cache
+D:\dev\C#\Csharp\Lessons\Lessons\obj\Debug\Lessons.csproj.CoreCompileInputs.cache
+D:\dev\C#\Csharp\Lessons\Lessons\bin\Debug\Lessons.exe.config
+D:\dev\C#\Csharp\Lessons\Lessons\bin\Debug\Lessons.exe
+D:\dev\C#\Csharp\Lessons\Lessons\bin\Debug\Lessons.pdb
+D:\dev\C#\Csharp\Lessons\Lessons\obj\Debug\Lessons.exe
+D:\dev\C#\Csharp\Lessons\Lessons\obj\Debug\Lessons.pdb
+D:\dev\C#\Csharp\Lessons\Lessons\obj\Debug\Lessons.exe.config
