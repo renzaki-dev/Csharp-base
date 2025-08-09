@@ -107,19 +107,36 @@ namespace Lessons
 
             //-----------------------------------------------------------------
 
-            string data;
-            int dollor;
-            double som = 12.625;
+            //string data;
+            //int dollor;
+            //double som = 12.625;
 
-            Console.WriteLine("Введите сумму в Доллaрах: ");
-            data = Console.ReadLine();
-            dollor = Convert.ToInt32(data);
+            //Console.WriteLine("Введите сумму в Доллaрах: ");
+            //data = Console.ReadLine();
+            //dollor = Convert.ToInt32(data);
 
-            double result = dollor * som;
-            Console.WriteLine("Доллaр в сум: " + result);
+            //double result = dollor * som;
+            //Console.WriteLine("Доллaр в сум: " + result);
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
+            //-----------------------------------------------------------------
+
+
+            
+            Console.WriteLine("Введите число для проверки на четность: ");
+            int a = int.Parse(Console.ReadLine());
+            if (a % 2 == 0)
+            {
+                Console.WriteLine("четное");
+            }
+            else
+            {
+                Console.WriteLine("нечетное");
+
+            }
+
+            //-----------------------------------------------------------------
         }
     }
 }

@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\dev\\C#\\Csharp\\Lessons\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE88EBE-EA9E-426A-AB15-620C93A5216F}|Lessons\\Lessons.csproj|d:\\dev\\c#\\csharp\\lessons\\lessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE88EBE-EA9E-426A-AB15-620C93A5216F}|Lessons\\Lessons.csproj|solutionrelative:lessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB9623C-D5DA-42AE-B441-475212EB263B}|ConsoleApp1\\ConsoleApp1.csproj|d:\\dev\\c#\\csharp\\lessons\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB9623C-D5DA-42AE-B441-475212EB263B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\C#\\Csharp\\Lessons\\Lessons\\Program.cs",
+              "RelativeDocumentMoniker": "Lessons\\Program.cs",
+              "ToolTip": "D:\\dev\\C#\\Csharp\\Lessons\\Lessons\\Program.cs",
+              "RelativeToolTip": "Lessons\\Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAgwIQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T18:51:03.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\C#\\Csharp\\Lessons\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\dev\\C#\\Csharp\\Lessons\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T17:21:53.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
