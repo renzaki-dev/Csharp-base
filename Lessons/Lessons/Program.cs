@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Linq.Expressions;
 
 
 namespace Lessons
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
             //int a, b;
@@ -123,20 +125,77 @@ namespace Lessons
             //-----------------------------------------------------------------
 
 
-            
-            Console.WriteLine("Введите число для проверки на четность: ");
-            int a = int.Parse(Console.ReadLine());
-            if (a % 2 == 0)
-            {
-                Console.WriteLine("четное");
-            }
-            else
-            {
-                Console.WriteLine("нечетное");
 
-            }
+            //Console.WriteLine("Введите число для проверки на четность: ");
+            //int a = int.Parse(Console.ReadLine());
+            //if (a % 2 == 0)
+            //{
+            //    Console.WriteLine("четное");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("нечетное");
+
+            //}
 
             //-----------------------------------------------------------------
+
+            //Console.WriteLine("Введите первое число: ");
+            //string a = Console.ReadLine();
+            //int firstNumber = int.Parse(a);
+
+            //Console.WriteLine("Что хотите +, -, *, /  : ");
+            //string operation = Console.ReadLine();
+            //Console.WriteLine("Введите второе число: ");
+            //string b = Console.ReadLine();
+            //int secondNumber = int.Parse(b);
+
+            //if(operation == "+")
+            //{
+            //    Console.WriteLine("Result: " + (firstNumber + secondNumber));
+            //} else if(operation == "-")
+            //{
+            //    Console.WriteLine("Result: " + (firstNumber - secondNumber));
+            //}
+            //else if (operation == "*")
+            //{
+            //    Console.WriteLine("Result: " + (firstNumber * secondNumber));
+            //}
+            //else if (operation == "/")
+            //{
+            //    Console.WriteLine("Result: " + (firstNumber / secondNumber));
+            //} else
+            //{
+            //    Console.WriteLine("Что то пошло не так!!");
+            //}
+
+
+            //-----------------------------------------------------------------
+
+            Console.WriteLine("Введите первое число: ");
+            string a = Console.ReadLine();
+            int firstNumber = int.Parse(a);
+
+            Console.WriteLine("Что хотите +, -, *, /  : ");
+            string operation = Console.ReadLine();
+            Console.WriteLine("Введите второе число: ");
+            string b = Console.ReadLine();
+            int secondNumber = int.Parse(b);
+
+            switch(operation)
+            {
+                case "+":
+                    Console.WriteLine("Result: " + (firstNumber + secondNumber));
+                    break;
+                case "-":
+                    Console.WriteLine("Result: " + (firstNumber - secondNumber));
+                    break;
+
+                default:
+                    Console.WriteLine("Что то пошло не так!!");
+                    break;
+            }
+
         }
     }
 }

@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\dev\\C#\\Csharp\\Lessons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FE88EBE-EA9E-426A-AB15-620C93A5216F}|Lessons\\Lessons.csproj|d:\\dev\\c#\\csharp\\lessons\\lessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FE88EBE-EA9E-426A-AB15-620C93A5216F}|Lessons\\Lessons.csproj|D:\\dev\\C#\\Csharp\\Lessons\\lessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FE88EBE-EA9E-426A-AB15-620C93A5216F}|Lessons\\Lessons.csproj|solutionrelative:lessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Lessons\\Program.cs",
               "ToolTip": "D:\\dev\\C#\\Csharp\\Lessons\\Lessons\\Program.cs",
               "RelativeToolTip": "Lessons\\Program.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAgwIcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAcwMQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T18:51:03.97Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\dev\\C#\\Csharp\\Lessons\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T17:21:53.923Z",
               "EditorCaption": ""
