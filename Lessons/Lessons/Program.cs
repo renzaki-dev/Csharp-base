@@ -172,29 +172,132 @@ namespace Lessons
 
             //-----------------------------------------------------------------
 
-            Console.WriteLine("Введите первое число: ");
-            string a = Console.ReadLine();
-            int firstNumber = int.Parse(a);
+            //Console.WriteLine("Введите первое число: ");
+            //string a = Console.ReadLine();
+            //int firstNumber = int.Parse(a);
 
-            Console.WriteLine("Что хотите +, -, *, /  : ");
-            string operation = Console.ReadLine();
-            Console.WriteLine("Введите второе число: ");
-            string b = Console.ReadLine();
-            int secondNumber = int.Parse(b);
+            //Console.WriteLine("Что хотите +, -, *, /  : ");
+            //string operation = Console.ReadLine();
+            //Console.WriteLine("Введите второе число: ");
+            //string b = Console.ReadLine();
+            //int secondNumber = int.Parse(b);
 
-            switch(operation)
-            {
-                case "+":
-                    Console.WriteLine("Result: " + (firstNumber + secondNumber));
-                    break;
-                case "-":
-                    Console.WriteLine("Result: " + (firstNumber - secondNumber));
-                    break;
+            //switch(operation)
+            //{
+            //    case "+":
+            //        Console.WriteLine("Result: " + (firstNumber + secondNumber));
+            //        break;
+            //    case "-":
+            //        Console.WriteLine("Result: " + (firstNumber - secondNumber));
+            //        break;
 
-                default:
-                    Console.WriteLine("Что то пошло не так!!");
-                    break;
-            }
+            //    default:
+            //        Console.WriteLine("Что то пошло не так!!");
+            //        break;
+            //}
+
+            //-----------------------------------------------------------------
+
+            //Console.WriteLine("ввдети число от: ");
+            //int firstNumber = int.Parse(Console.ReadLine());
+            //Console.WriteLine("ввдети число до: ");
+            //int secondNumber = int.Parse(Console.ReadLine());
+            //int countChetnoe = 0;
+            //int countNechetnoe = 0;
+
+            //while (firstNumber <= secondNumber)
+            //{
+            //    if (firstNumber % 2 == 0)
+            //    {
+            //        Console.WriteLine(firstNumber + " - четное");
+            //        countChetnoe++;
+            //    }
+            //    if (firstNumber % 2 != 0)
+            //    {
+            //        Console.WriteLine(firstNumber + " - нечетное");
+            //        countNechetnoe++;
+            //    }
+
+            //    firstNumber++;
+            //}
+            //Console.WriteLine("Количество четных чисел: " + countChetnoe);
+            //Console.WriteLine("Количество нечетных чисел: " + countNechetnoe);
+
+
+            //-----------------------------------------------------------------
+            //for (int i = 1; i <= 10; i++)
+            //{
+            //    for (int j = i; j > 0; j--)
+            //    {
+            //        Console.Write("#");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+            //Console.WriteLine(" ");
+            //Console.WriteLine(" ");
+
+            //for (int i = 10; i > 0; i--)
+            //{
+            //    for (int j = 0; j < i; j++)
+            //    {
+            //        Console.Write("#");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+            //Console.WriteLine(" ");
+            //Console.WriteLine(" ");
+
+            //for (int i = 1; i <= 10; i++)
+            //{
+            //    for (int j = 10; j > i; j--)
+            //    {
+            //        Console.Write(" ");
+            //    }
+
+            //    for (int j = i; j > 0; j--)
+            //    {
+            //        Console.Write("#");
+            //    }
+            //    Console.WriteLine(" ");
+            //}
+
+            //Console.WriteLine(" ");
+            //Console.WriteLine(" ");
+
+            //for (int i = 10; i > 0; i--)
+            //{
+            //    for (int j = 10; j > i; j--)
+            //    {
+            //        Console.Write(" ");
+            //    }
+
+            //    for (int j = 0; j < i; j++)
+            //    {
+            //        Console.Write("#");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+            //-----------------------------------------------------------------
+
+            //int num1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine(" ");
+
+            //int[] myArray = new int[11];
+
+            //for (int j = 0; j < myArray.Length; j++)
+            //{
+            //    myArray[j] = num1 * j;
+            //    Console.WriteLine(num1 + " * " + j + " = " + (myArray[j]));
+            //}
+
+
+            //-----------------------------------------------------------------
+            int[] numbers = { -4, -3, -2, -1, 0, 1, 2, 3, 4 };
+
+
 
         }
     }
